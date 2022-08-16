@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Bezdna9
+- 👀 I’m interested in social engineering, online security and osint.
